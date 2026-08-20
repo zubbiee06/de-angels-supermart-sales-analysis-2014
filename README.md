@@ -1,4 +1,4 @@
-# De Angels Super Mart — Sales Analysis 2014
+# Habourview Retail Super Mart — Sales Analysis 2014
 
 ## Overview
 A Microsoft Excel-based sales performance analysis of Habourview Retail Super Mart for the year 2014, covering salesperson performance, regional revenue breakdown, product category insights, city and state distribution, and monthly sales trends. Built as part of the Vephla University Data Analytics Programme.
